@@ -1,5 +1,5 @@
 ## ⚙️ Configuración
-
+```bash
 1. Clonar el repositorio:
    git clone [https://github.com/JulianQuirozG/parking.git](https://github.com/JulianQuirozG/MessageMicroservice.git)
    cd parking
